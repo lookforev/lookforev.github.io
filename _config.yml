@@ -1,11 +1,11 @@
 # Site settings
 author: Evan Bernard
-title: 
+title: It is my blog.
 header-img: img/home-bg.png
 email: epaulbernard@gmail.com
 copyright_name: Evan Bernard
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Yes, read me
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lookforev
